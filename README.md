@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evansklyde
 - 👀 I’m interested in Flutter App Development
-- 🌱 I’m currently learning state management and Git
+- 🌱 I’m currently building Filoy App
 - 💞️ I’m looking to collaborate on anything Flutter
 - 📫 How to reach me ... flutterklyde@gmail.com 
 
